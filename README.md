@@ -8,6 +8,8 @@
 - 🥅 2020 Goals: Learning more stuff and finding a job
 - ⚡ i lOVE Football ⚽, Runing 🏃‍♂️ and Music 🎧
 
+  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
 ### Connect with me:
 
 [<img align="left" alt="elayadeismail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -40,12 +42,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-
-1. 💪 Add a Readme file
-2. 💪 working on a microservices app
-3. 💪 Opened PR
-4. 💪 Opened PR
-5. 💪 Opened PR
 <!--END_SECTION:activity-->
 
 </details>
