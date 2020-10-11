@@ -2,13 +2,13 @@
 
 ## I'm a Front-End Developer!!
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 Working on some personal projects
 - 🌱 I’m currently learning React Native
 - 👯 I’m Looking for a Job
 - 🥅 2020 Goals: Learning more stuff and finding a job
 - ⚡ i lOVE Football ⚽, Runing 🏃‍♂️ and Music 🎧
-
-  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 ### Connect with me:
 
