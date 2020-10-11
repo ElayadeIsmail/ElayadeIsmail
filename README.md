@@ -2,7 +2,7 @@
 
 ## I'm a Front-End Developer!!
 
-  <img align="right" alt="GIF" src="./code.gif" width="250" height="200" />
+  <img align="right" alt="GIF" src="./code.gif" width="350" height="500" />
 
 - 🔭 Working on some personal projects
 - 🌱 I’m currently learning React Native
