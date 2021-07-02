@@ -5,10 +5,9 @@
   <img align="right" alt="GIF" src="./code.gif" width="300" height="400" />
 
 - 🔭 Working on some personal projects
-- 🌱 I’m currently learning React Native
-- 👯 I’m Looking for a Job
-- 🥅 2020 Goals: Learning more stuff and finding a job
-- ⚡ i lOVE Football ⚽, Runing 🏃‍♂️ and Music 🎧
+- 👯 I’m Looking for a Full-time Job
+- 🥅 2021 Goals: Keep Learning more stuff.
+- ⚡ I LOVE Football ⚽, Running 🏃‍♂️ and Music 🎧
 
 ### Connect with me:
 
@@ -25,6 +24,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -38,20 +38,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="elayade GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ElayadeIsmail&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://elayadeismail.herokuapp.com/
+[website]: https://elayadeismail.com/
 [twitter]: https://twitter.com/ElayadeIsmail
 [linkedin]: https://www.linkedin.com/in/ismail-elayade-0849301a2/
