@@ -1,6 +1,6 @@
 ### Hi there, I'm Ismail Elayade -[website] 👋
 
-## I'm a Front-End Developer!!
+## I'm a Full-Stack JavaScript Developer!!
 
   <img align="right" alt="GIF" src="./code.gif" width="300" height="400" />
 
