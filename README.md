@@ -37,10 +37,10 @@
 <br />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElayadeIsmail&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElayadeIsmail&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElayadeIsmail&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElayadeIsmail&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ---
