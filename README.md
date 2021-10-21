@@ -4,8 +4,8 @@
 
   <img align="right" alt="GIF" src="./code.gif" width="300" height="400" />
 
-- 🔭 Working on some personal projects
-- 👯 Full-Stack Developer at Harmony Technlogie.
+- 🔭 Learning Golang ⚡ 
+- 👨‍💻 Full-Stack Developer at Harmony Technlogie.
 - 🥅 2021 Goals: Keep Learning more stuff.
 - ⚡ I LOVE Football ⚽, Running 🏃‍♂️ and Music 🎧
 
