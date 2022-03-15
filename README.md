@@ -49,6 +49,6 @@
 
 ---
 
-[website]: https://elayadeismail.com/
+[website]: https://elayade.com/
 [twitter]: https://twitter.com/ElayadeIsmail
 [linkedin]: https://www.linkedin.com/in/ismail-elayade-0849301a2/
