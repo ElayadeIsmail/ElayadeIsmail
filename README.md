@@ -2,11 +2,9 @@
 
 ## I'm a Full-Stack JavaScript Developer!!
 
-  <img align="right" alt="GIF" src="./code.gif" width="300" height="400" />
-
-- 🔭 Learning Golang ⚡ 
-- 👨‍💻 Full-Stack Developer at Harmony Technlogie.
-- 🥅 2021 Goals: Keep Learning more stuff.
+- 🔭 Learning New Technologies ⚡ 
+- 👨‍💻 Full-Stack Developer at SQLI.
+- 🥅 2023 Goals: Keep Learning more stuff.
 - ⚡ I LOVE Football ⚽, Running 🏃‍♂️ and Music 🎧
 
 ### Connect with me:
@@ -41,10 +39,6 @@
 <br />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElayadeIsmail&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElayadeIsmail&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ---
