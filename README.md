@@ -1,10 +1,10 @@
 ### Hi there, I'm Ismail Elayade -[website] 👋
 
-## I'm a Full-Stack JavaScript Developer!!
+## I'm a Full-Stack Developer!!
 
 - 🔭 Learning New Technologies ⚡ 
-- 👨‍💻 Full-Stack Developer at SQLI.
-- 🥅 2023 Goals: Keep Learning more stuff.
+- 👨‍💻 Full-Stack Developer.
+- 🥅 2024 Goals: Keep Learning more stuff.
 - ⚡ I LOVE Football ⚽, Running 🏃‍♂️ and Music 🎧
 
 ### Connect with me:
