@@ -26,6 +26,5 @@
 
 ---
 
-[website]: https://elayade.com/
-[twitter]: https://twitter.com/ElayadeIsmail
-[linkedin]: https://www.linkedin.com/in/ismail-elayade-0849301a2/
+[website]: https://ielayade.dev/
+[linkedin]: https://www.linkedin.com/in/elayadeismail/
