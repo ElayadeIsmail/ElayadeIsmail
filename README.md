@@ -2,11 +2,6 @@
 
 ## I'm a Full-Stack Developer!!
 
-- 🔭 Learning New Technologies ⚡ 
-- 👨‍💻 Full-Stack Developer.
-- 🥅 2024 Goals: Keep Learning more stuff.
-- ⚡ I LOVE Football ⚽, Running 🏃‍♂️ and Music 🎧
-
 ### Connect with me:
 
 [<img align="left" alt="elayadeismail" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
