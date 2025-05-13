@@ -1,10 +1,9 @@
-### Hi there, I'm Ismail Elayade -[website] 👋
+### Hi there, I'm Ismail Elayade - 👋
 
 ## I'm a Full-Stack Developer!!
 
 ### Connect with me:
 
-[<img align="left" alt="elayadeismail" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
 [<img align="left" alt="Elayade ismail | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
@@ -21,5 +20,4 @@
 
 ---
 
-[website]: https://ielayade.dev/
 [linkedin]: https://www.linkedin.com/in/elayadeismail/
